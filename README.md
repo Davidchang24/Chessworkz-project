@@ -5,7 +5,9 @@ Chessworkz is a web application that focuses on learning about chess in a intera
 
 ## Repositories
 [Chessworkz-service](https://github.com/Davidchang24/Chessworkz)
+
 [Follow-Service](https://github.com/Davidchang24/FollowService)
+
 [Chessworkz-Frontend](https://github.com/Davidchang24/Chessworkz-front-end)
 
 ## Project Board
