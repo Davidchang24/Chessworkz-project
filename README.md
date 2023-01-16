@@ -33,3 +33,7 @@ Chessworkz is a web application that focuses on learning about chess in a intera
 [Research Integration Testing](https://github.com/Davidchang24/Chessworkz/wiki/Integration-testing-research)
 
 [Research SQL Injection](https://github.com/Davidchang24/Chessworkz/wiki/SQLi-Research)
+
+## Portfolio
+
+[Portfolio](https://github.com/Davidchang24/Chessworkz/wiki/Portfolio)
